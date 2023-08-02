@@ -1,24 +1,34 @@
 # ele-vue3-ts
+## 1. 项目介绍
 
-## Project setup
+此项目作为模板使用
+
+### 1.1 技术栈
+
+`Vue3`、`vue-router`、`pinia`、`TypeScript`、`Element-Plus`
+
+- 使用setup组合式开发
+- elementPlus组件库(支持组件按需导入和图标自动导入)
+
+
+
+## 2. 项目命令
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 开发环境编译运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 生产环境编译运行
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 修复eslint代码风格
 ```
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
